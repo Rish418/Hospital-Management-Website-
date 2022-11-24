@@ -35,7 +35,7 @@ GET CONFIRMATION MAIL OR STATUS REGARDING APPOINTMENT
 
   ### Administration:  
   administration has following functions:
-a) Login or register
+a) Login or Register
 
 b) Update information 
 
